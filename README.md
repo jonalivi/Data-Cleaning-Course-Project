@@ -4,7 +4,7 @@ This file provides description of the Data Cleaning Course Project (DCCP) and it
 
 The project contains the following files:
 * `README.md` 
-* `run_analysis.R` (executable part of the project, outputting the tidy data set)
+* `run_analysis.R` (executable part of the project)
 * `CodeBook.md` (a description of all the variables in the resulting dataset)
 
 
