@@ -11,7 +11,7 @@ The variables listed below have double values corresponding to the values of the
  
 * `mean(tBodyAcc-mean()-X)`
 
-* `mean(tBodyAcc-mean()`-Y)` 
+* `mean(tBodyAcc-mean()-Y)` 
 
 * `mean(tBodyAcc-mean()-Z)`
 
