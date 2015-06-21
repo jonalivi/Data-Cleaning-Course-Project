@@ -58,7 +58,7 @@ A copy of the `datatable`, `tidytable`, is made. `tidytable` is made molten: `su
 
 ## Description of the output
 
-The resulting `tidytable` contains 180 rows and 88 columns. It is exported to the file `./data/tidydata.txt` with the `write.table` function.
+The resulting `tidytable` contains 180 rows and 88 columns. It is exported to the file `./tidydata.txt` with the `write.table` function.
 
 
 
