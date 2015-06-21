@@ -133,5 +133,5 @@ setnames(tidytable,
 
 # export tidy data to a text file without row naming ---------------------------
 
-write.table(tidytable, "./data/tidydata.txt",row.names = FALSE)
+write.table(tidytable, "./tidydata.txt",row.names = FALSE)
 
